@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #A0B3E3;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+form{
+    width: 500px;
+    border: 2px solid #ccc;
+    background: #fff;
+    padding: 30px;
+    border-radius: 15px ;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    display: block;
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius:  20px; ;
+}
+
+button
+{
+    background: #A0B3E3;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-left: 175px;
+    border: none;
+}
